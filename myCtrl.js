@@ -1,4 +1,4 @@
-app.Controller("myCtrl", function($scope) {
-  $scope.firstName = "Joseph";
-  $scope.lastName = "Case";
+app.controller("myCtrl", function($scope) {
+    $scope.firstName = "John";
+    $scope.lastName = "Doe";
 });
